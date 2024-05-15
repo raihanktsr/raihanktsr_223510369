@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(
+    to right,
+    rgb(255, 252, 252),
+    rgb(245, 246, 246)
+  );
+  font-family: "Times New Roman", sans-serif;
+}
+
+.custom-input {
+  border-radius: 10px;
+  border: 2px solid #da0f0f;
+  padding: 10px;
+  box-shadow: 0px 0px 10px rgba(243, 80, 80, 0.1);
+}
+
+.custom-input:focus {
+  border-color: #007bff;
+  box-shadow: 0px 0px 10px rgba(0, 123, 255, 0.4);
+}

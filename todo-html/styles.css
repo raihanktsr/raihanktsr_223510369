@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(
+    to right,
+    rgb(104, 2, 145),
+    rgb(165, 7, 68)
+  );
+  font-family: "Times New Roman", sans-serif;
+}
+
+
